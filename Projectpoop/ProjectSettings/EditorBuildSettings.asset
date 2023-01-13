@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/kodaiScene/kodaiTitle.unity
+    guid: 40f085971c90c50458994405121fc8a6
+  - enabled: 1
+    path: Assets/Scenes/kodaiScene/kodaiMain.unity
+    guid: 45d893065cf03024ca225bb40fca13d1
+  - enabled: 1
+    path: Assets/Scenes/kodaiScene/kodaiResult.unity
+    guid: 21f237a0ae93a0641a7304ce4bc95065
   m_configObjects: {}
