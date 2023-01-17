@@ -6,6 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+=======
+    path: Assets/Scenes/kodaiScene/kodaiTitle.unity
+    guid: 40f085971c90c50458994405121fc8a6
+  - enabled: 1
+    path: Assets/Scenes/kodaiScene/kodaiMain.unity
+    guid: 45d893065cf03024ca225bb40fca13d1
+  - enabled: 1
+    path: Assets/Scenes/kodaiScene/kodaiResult.unity
+    guid: 21f237a0ae93a0641a7304ce4bc95065
+>>>>>>> 34e0a3388e5688260e7dea57907add6f24a80be6
   m_configObjects: {}
